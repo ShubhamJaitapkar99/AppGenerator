@@ -1,0 +1,11 @@
+Project name: NoteIt
+Organization: com.example.NoteIt
+Budle Name: acb.theApp
+Platforms: Android, Deskstop
+Description: In this app you can create notes of any thing you want.
+Primary functionality: Set Reminder of note, Update and Delete note,
+Animated notes, Dark mode
+Design Preferenced: Material Design
+Color Scheme: Green, Pink, Budle
+Target Audience: General public
+===CHUNK_SEPARATOR===
